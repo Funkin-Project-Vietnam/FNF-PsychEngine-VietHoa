@@ -1,0 +1,7 @@
+{
+	"name": "Psych Engine Việt hóa",
+	"description": "Việt hóa bởi SangMzG.\nCHỈ CHẠY ĐƯỢC Ở PE 1.0 TRỞ LÊN",
+	"restart":true,
+	"runsGlobally": true,
+	"color": [200, 228, 255]
+}
